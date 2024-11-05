@@ -88,6 +88,7 @@ h2 {
 }
 
 button {
+    font-family: 'Patrick Hand', cursive;
     background: linear-gradient(135deg, #ff4e50, #f9d423);
     color: white;
     border: none;
